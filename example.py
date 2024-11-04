@@ -6,6 +6,8 @@ st.set_page_config(page_title="Annotated Text", page_icon="📝")
 """
 # 📝 Annotated Text
 
+*This shows we use the example.py from the PR*
+
 This app shows off the [Annotated Text component](https://github.com/tvst/st-annotated-text) for
 Streamlit.
 
